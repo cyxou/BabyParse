@@ -878,4 +878,4 @@
 		global.Baby = Baby;
 	}
 
-})(typeof window !== 'undefined' ? window : this);
+})(this);
